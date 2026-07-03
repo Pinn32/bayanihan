@@ -22,9 +22,13 @@
   --content-w: 1150px;
 }
 
-* { box-sizing: border-box; }
+* { margin: 0; box-sizing: border-box; }
 
-html { scroll-behavior: smooth; }
+html { 
+  /* transform: scale(0.95);
+  transform-origin: top center; */
+  scroll-behavior: smooth; 
+}
 
 body {
   margin: 0;
