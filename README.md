@@ -2,8 +2,8 @@
 
 High-fidelity prototype of a UI/UX redesign for [**Bayanihan**](https://www.instagram.com/bayanihanbufsa/), the student-run Filipino arts & fashion magazine affiliated with [BUFSA](https://bufsa.weebly.com/) (Boston University Filipino Student Association).
 
-**🔗 Live demo:** https://pinn32.github.io/bayanihan-prototype/
-**📃 Design concept:** https://github.com/Pinn32/em757-web-design-project
+**🔗 Live demo:** https://pinn32.github.io/bayanihan-prototype/  
+**📃 Design concept:** https://github.com/Pinn32/em757-web-design-project  
 
 This is a static HTML/CSS/JS rebuild of our final design, originally prototyped in Figma for [EM757 Developing Interactivity](https://www.bu.edu/academics/com/courses/com-em-757/) at Boston University. For the full design process, research, and personas, see the [project repository](https://github.com/Pinn32/em757-web-design-project).
 
