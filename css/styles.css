@@ -25,8 +25,8 @@
 * { margin: 0; box-sizing: border-box; }
 
 html { 
-  /* transform: scale(0.95);
-  transform-origin: top center; */
+  /* transform: scale(0.95); */
+  /* transform-origin: top center; */
   scroll-behavior: smooth; 
 }
 
